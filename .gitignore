@@ -5,7 +5,17 @@
 *.log
 *.log.[0-9]
 
+# Package Files #
+*.jar
+*.war
+*.ear
 
 
 # comment 
 # don't ignore gitignore
+# compiled source code
+# packages and compressed files
+# logs and databases
+# operating system generated files
+# user-uploaded assets (imgs, PDFs, videos)
+
