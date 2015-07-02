@@ -1,6 +1,4 @@
 insert sth
-a conflict in master branch
 this is a test file
 
-
-this is the master line. And add more things
+merge conflict solved 
