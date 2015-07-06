@@ -1,5 +1,18 @@
 insert sth
 this is a test file
 
+
+
+
+
+
+
+
+
+
+
+
+
 Do some changes. Test stashing. Make change and try to switch branch
-another conflict by stash
+
+Do some changes. Test stashing. Make change and try to switch branch
