@@ -1,4 +1,5 @@
 insert sth
 this is a test file
 
-merge conflict solved 
+Do some changes. Test stashing. Make change and try to switch branch
+another conflict by stash
